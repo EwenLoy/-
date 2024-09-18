@@ -1,0 +1,17 @@
+{
+	"name": "Хомяк",
+	"short_name": "Хомяк",
+	"description": "руруруур",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/Иконка-256.png",
+			"sizes": "108x108",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}
